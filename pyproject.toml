@@ -1,0 +1,5 @@
+[project]
+name = "gto"
+version = "0.1.0"
+description = "🏷️ Git Tag Ops. Turn your Git repository into Artifact Registry or Model Registry."
+requires-python = ">=3.10"
